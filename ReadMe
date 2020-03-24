@@ -1,1 +1,11 @@
-Read Me
+
+Predicting the number of dengue fever cases reported each week in San Juan, Puerto Rico and Iquitos, Peru.ç
+
+"Accurate dengue predictions would help public health workers ... and people around the world take steps to 
+reduce the impact of these epidemics. But predicting dengue is a hefty task that calls for the consolidation 
+of different data sets on disease incidence, weather, and the environment."
+
+Because it is carried by mosquitoes, the transmission dynamics of dengue are related to climate variables 
+such as temperature and precipitation. Although the relationship to climate is complex, a growing number of 
+scientists argue that climate change is likely to produce distributional shifts that will have significant 
+public health implications worldwide.
